@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of xypp/flarum-qqwx-redirect-page.** Not for installation: use [Packagist](https://packagist.org/packages/xypp/flarum-qqwx-redirect-page) or the [upstream repository](https://github.com/zxy19/flarum-qqwx-redirect-page).
 
-**0** versions archived · Latest: [`v1.0.1`](https://github.com/flarchive/xypp-flarum-qqwx-redirect-page/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.2.0`
+**2** versions archived · Latest: [`v1.0.1`](https://github.com/flarchive/xypp-flarum-qqwx-redirect-page/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2024-07-29 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-flarum-qqwx-redirect-page/tree/archive/v1.0.0) |
+| `v1.0.1` | 2024-07-30 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-flarum-qqwx-redirect-page/tree/archive/v1.0.1) |
 
 Catalog entry: [packages/xypp-flarum-qqwx-redirect-page.json](https://github.com/flarchive/archive-index/blob/main/packages/xypp-flarum-qqwx-redirect-page.json)
 
